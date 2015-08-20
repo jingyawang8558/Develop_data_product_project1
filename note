@@ -1,0 +1,6 @@
+runApp() to check if App is all right
+then 
+library(shiny)
+library(shinyapps)
+deployApp()
+will deploy the app to the website
